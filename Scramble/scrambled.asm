@@ -1,5 +1,6 @@
 # Jiajie Dang
-#jid18@pitt.edu
+# djjkobe@gmail.com
+===========================
 
 .data
 buffer2:  .space 64
@@ -173,7 +174,7 @@ j continue
 continue:
 li $s1,0
 move $s1,$s0
-# store the instruction back into x, now x has a 32-byte instruction£¡£¡£¡£¡£¡£¡£¡
+# store the instruction back into x, now x has a 32-byte instructionÂ£Â¡Â£Â¡Â£Â¡Â£Â¡Â£Â¡Â£Â¡Â£Â¡
 la $s0,x
 sw $s1,0($s0)
 # $s5 contains the address of x, $s6 contains the content of x
