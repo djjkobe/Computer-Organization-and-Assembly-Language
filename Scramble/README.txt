@@ -1,6 +1,6 @@
 # Jiajie Dang
-# jid18@pitt.edu
-
+# djjkobe@gmail.com
+=========================
 
 My approach for the assignment
 1.creat a 32-bit instruction
