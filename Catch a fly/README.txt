@@ -1,6 +1,6 @@
-# Jiajie Dang
-# jid18@pitt.edu
-
+# Developer:  Jiajie Dang
+# Email:  djjkobe@gmail.com
+======================================
 1.creat the frog at(32,4)
 2.creat a fly at a random place and put it on the LED screen
 3.first check the score, if the score bigger or equal than 32, game stop.else then check if there is a key pressed
