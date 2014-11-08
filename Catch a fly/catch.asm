@@ -1,5 +1,6 @@
-# Jiajie Dang
-# jid18@pitt.edu
+# Developer: Jiajie Dang
+# Email: djjkobe@gmail.com
+=====================================
 .data
 flyx: .word 0
 flyy: .word 3
